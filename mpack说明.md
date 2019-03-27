@@ -1,3 +1,5 @@
+开发仓库为 [bigtop](<http://gitlab.redoop.com/omega/bigtop>)。分支为`trunk`。
+
 mpack是ambari的一个特性，其本身是一些service的集合，ambari通过安装mpack包，可以将mpack中的service添加到ambari中，然后就可以使用这些service安装相应的服务。
 
 在CRH中，一个mpack是一类service的集合，并已集成进bigtop，其独立于ambari，并且以系统安装包的形式安装。
