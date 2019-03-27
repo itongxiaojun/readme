@@ -1,3 +1,5 @@
+开发仓库为 [bigtop](<http://gitlab.redoop.com/omega/bigtop>)。分支为`trunk`。
+
 这里讨论CRH7的开发思路，以供参考。
 
 **在开发前，请将现有代码备份或者release，或者可以新建一个分支进行开发。**
